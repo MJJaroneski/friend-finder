@@ -14,7 +14,7 @@ This screen shows entry screen with the button to begin the survey.
 
 This is the survey screen.
 
-![Survery](https://github.com/armthepit/Friend-Finder/blob/master/app/public/images/survey1.jpg?raw=true)
+![Survery](https://github.com/MJJaroneski/friend-finder/blob/master/app/public/images/survey1.jpg)
 ![Survey](https://github.com/armthepit/Friend-Finder/blob/master/app/public/images/survey2.jpg?raw=true)
 ![Survey](https://github.com/armthepit/Friend-Finder/blob/master/app/public/images/survey3.jpg?raw=true)
 
