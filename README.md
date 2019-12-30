@@ -8,33 +8,33 @@
 
 This screen shows entry screen with the button to begin the survey.
 
-![Image of Start Up Screen](https://github.com/armthepit/Friend-Finder/blob/master/app/public/images/introscreen.JPG?raw=true)
+![Image of Start Up Screen](https://github.com/MJJaroneski/friend-finder/blob/master/app/public/images/introscreen.JPG)
 
 ### Survey 
 
 This is the survey screen.
 
 ![Survery](https://github.com/MJJaroneski/friend-finder/blob/master/app/public/images/survey1.jpg)
-![Survey](https://github.com/armthepit/Friend-Finder/blob/master/app/public/images/survey2.jpg?raw=true)
-![Survey](https://github.com/armthepit/Friend-Finder/blob/master/app/public/images/survey3.jpg?raw=true)
+![Survey](https://github.com/MJJaroneski/friend-finder/blob/master/app/public/images/survey2.jpg)
+![Survey](https://github.com/MJJaroneski/friend-finder/blob/master/app/public/images/survey3.jpg)
 
 ### Error 
 
 This screen shows error when survey not correctly filled out.
 
-![Image of Error](https://github.com/armthepit/Friend-Finder/blob/master/app/public/images/error.jpg?raw=true)
+![Image of Error](https://github.com/MJJaroneski/friend-finder/blob/master/app/public/images/error.jpg)
 
 ### Friend
 
 This screen shows your new friend.
 
-![Friend](https://github.com/armthepit/Friend-Finder/blob/master/app/public/images/result.JPG?raw=true)
+![Friend](https://github.com/MJJaroneski/friend-finder/blob/master/app/public/images/result.JPG)
 
 ### API Table
 
 This screen shows the json data.
 
-![Friend](https://github.com/armthepit/Friend-Finder/blob/master/app/public/images/apitable.jpg?raw=true)
+![Friend](https://github.com/MJJaroneski/friend-finder/blob/master/app/public/images/apitable.jpg)
 
 ### Stack Used
 	* Node Packages
