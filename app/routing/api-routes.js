@@ -14,11 +14,11 @@ module.exports = function(app) {
     // In each of the below cases when a user visits a link
     // ---------------------------------------------------------------------------
 
-    app.get('../data/friends.js', function(request, result) {
+    app.get('/../data/friends.js', function(request, result) {
         result.json(friendsTable);
     });
 
-    app.post("../data/friends.js", function(request, result) {
+    app.post("/../data/friends.js", function(request, result) {
         var you = request.body;
         var newFriend = -1;
         var newFriendScore = 100;
