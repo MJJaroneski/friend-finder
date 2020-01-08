@@ -1,13 +1,6 @@
-// ===============================================================================
-// DEPENDENCIES
-// ===============================================================================
+
 var bodyParser = require('body-parser');
 var path = require('path');
-
-// ===============================================================================
-// LOAD DATA
-// Below is the link to friends table.
-// ===============================================================================
 
 var friendsTable = require('../data/friends.js');
 
@@ -21,11 +14,11 @@ module.exports = function(app) {
     // In each of the below cases when a user visits a link
     // ---------------------------------------------------------------------------
 
-    app.get('/api/friends', function(request, result) {
+    app.get('../data/friends.js', function(request, result) {
         result.json(friendsTable);
     });
 
-    app.post("/api/friends", function(request, result) {
+    app.post("../data/friends.js", function(request, result) {
         var you = request.body;
         var newFriend = -1;
         var newFriendScore = 100;
