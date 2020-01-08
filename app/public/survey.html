@@ -216,7 +216,7 @@
                 ]
             }
             var currentURL = window.location.origin;
-            $.post(currentURL + "/../data/friends.js ", friendInput, function(data) {
+            $.post(currentURL + "/../data/friends.js", friendInput, function(data) {
                 $("#friendName ").text(data.name);
                 $('#friendPhoto').attr("src", data.photo);
                 // Show the modal with your new friend
